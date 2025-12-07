@@ -1,46 +1,54 @@
 # Policy Memo Structure
 
-## 1. Executive Summary
-- 1-2 paragraphs max; busy readers may only read this
+**Target length:** 4-6 pages (~2,000-2,500 words)
 
-## 2. Problem Statement
+---
+
+## 1. Executive Summary (~100-150 words)
+- Busy readers may only read this
+- State the problem, your top recommendations, and why they matter
+
+## 2. Problem Statement (~200-300 words)
 - Current state of Kendall-Logan transit connectivity
-- Why it matters to KSA members specifically
-- Quantify the pain (travel times, mode share, congestion/emissions burden on East Boston)
+- Why Kendall workers choose cars/rideshare
+- Impact (congestion, emissions on East Boston)
 
-## 3. Stakeholders
-- **Primary:** KSA members, Kendall employers/employees
-- **Public Agencies:** Massport, MBTA, MassDOT, Cities of Boston/Cambridge
-- **Affected Communities:** East Boston residents (EJ considerations), airport workers
-- **Potential Allies/Opposition:** Transit advocacy groups, business associations, neighborhood groups
+## 3. Stakeholders (~150-200 words)
+- Who's impacted
+- Who needs to support/approve
+- Table or bulleted list format
 
-## 4. Key Problems to Solve
-- Break into distinct problem categories (e.g., connectivity gaps, reliability, wayfinding, first/last mile, frequency, travel time competitiveness vs. car)
+## 4. Key Problems to Solve (~150-200 words)
+- Distinct problem categories
+- Keep it scannable
 
-## 5. Proposed Solutions
+## 5. Proposed Solutions (~800-1,000 words total)
 
-### 5a. Short-Term (0-1 year)
-- Quick wins, low capital cost, pilots
-- Things that can be done within existing infrastructure
+### 5a. Short-Term (0-5 years) (~250-350 words)
+- Quick wins, pilots
+- Within existing infrastructure
 
-### 5b. Medium-Term (1-5 years)
-- Service improvements, operational changes
-- Coordination between agencies
+### 5b. Medium-Term (5-15 years) (~250-350 words)
+- Service improvements
+- Agency coordination
 
-### 5c. Long-Term (5+ years)
+### 5c. Long-Term (50+ years) (~250-350 words)
 - Capital projects (Red-Blue Connector, etc.)
-- Major infrastructure investments
 
-## 6. Implementation Roadmap
+## 6. Implementation Roadmap (~150-200 words)
 - Sequencing and dependencies
-- Who needs to act at each phase
+- Who acts at each phase
 
-## 7. Funding Considerations
+## 7. Funding Considerations (~100-150 words)
 - Potential sources for each phase
 
-## 8. Building Political Will
+## 8. Building Political Will (~150-200 words)
 - Coalition strategy
-- How KSA can advocate effectively
+- How KSA advocates
 
-## 9. Measures of Success
-- What metrics would indicate progress
+## 9. Measures of Success (~100 words)
+- Key metrics
+
+---
+
+**Total: ~2,000-2,500 words (4-6 pages)**
