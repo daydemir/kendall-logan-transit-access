@@ -1,0 +1,30 @@
+- the core problem is that the airport is not in a good location. this is an error of the past that cannot be easily fixed. but it is important to acknowledge this early on, and set up a solution that might go ahead
+- while we will focus on the kendall specific for short and medium term solutions, we'll focus on systematic changes for an eventual new airport location in the long term
+- stakeholders
+	- business / conference travel to and from kendall / cambridge
+	- students
+	- gate from greater camberville to airport
+	- businesses located in kendall
+- considerations
+	- Red-blue connector is not impactful enough of a difference to be primary solution
+		- in my experience, the red blue connector will have minimal benefit for airport travel. the edge case where the tunnel traffic is significantly blocked has been anecdotally rare
+	- we're hired by the ksa, but we'll still recommend changes that help all of boston, and not recommend changes that come at the detriment of others
+- short term
+	- a shuttle to bowdoin
+- medium
+	- red blue connector?
+	- electrify commuter rail, increase frequencies
+    - rail from south station to logan
+- long
+	- north south station connections
+	- new airport with commuter line connection
+	- increased commuter line frequency to every 15 min
+- marketing
+	- short / medium
+	- long
+		- boston airport should be an airport for all of massachussetts
+		- romney airport
+- claude research things
+	- nsrl
+	- building an airport along a commuter line in western boston
+	- red blue connector expected time savings given my anecdotal evidence
