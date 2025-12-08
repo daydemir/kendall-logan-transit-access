@@ -96,19 +96,45 @@ Before evaluating sites, key international comparisons:
 | **Existing Infrastructure** | Moore Army Airfield still exists with intact runways (1940-1995) |
 | **Rail** | Fitchburg Line (Ayer station) - already serves site |
 
-**Travel Times (Electrified Rail)**
-| Destination | Current | Electrified Express | High-Speed (new) |
-|-------------|---------|---------------------|------------------|
-| North Station | 75 min | **30-35 min** | **22-25 min** |
-| South Station (via NSRL) | N/A | **40-45 min** | **32-35 min** |
-| Worcester | 60+ min (no direct) | **35-40 min** (new spur) | **25-30 min** |
-| Springfield | 120+ min | **55-65 min** (new line) | **35-40 min** |
+**Fitchburg Line Route Analysis (Actual Constraints)**
+
+The Fitchburg Line has tight curves that physically limit speed:
+- Urban section (North Stn→Waltham): 60-70 mph max due to curves
+- Single-track rock cut through Waltham: 50 mph
+- Best rural segments (Concord→Ayer): 100-110 mph possible with upgrades
+- **True high-speed (125+ mph) NOT possible** without $3-5B complete realignment
+
+**Travel Times (Realistic Based on Route Geometry)**
+| Scenario | North Station | South Station (via NSRL) | Investment |
+|----------|---------------|--------------------------|------------|
+| Current diesel | **88 min** | N/A | - |
+| Electrified EMU only | **62-66 min** | **70-74 min** | ~$500M |
+| + Grade crossing elimination | **55-60 min** | **63-68 min** | +$200M |
+| + Track upgrades (Class 5/6) | **48-53 min** | **56-61 min** | +$400M |
+
+**Travel Times to Worcester/Springfield (New Connections Required)**
+| Destination | Current | With New Spur/Line |
+|-------------|---------|-------------------|
+| Worcester | No direct service | **40-50 min** (via new connection) |
+| Springfield | No direct service | **70-90 min** (via new line) |
 
 **Why #1:**
 - Only site with 4,000+ acres in state ownership
 - Existing aviation infrastructure
 - Existing rail connection (needs electrification, not new construction)
 - Located to serve both Boston AND Central/Western MA
+- **48-53 min travel time** competitive with international benchmarks (Munich: 36-40 min at 30km)
+
+**Alternative Routes Considered (None Faster)**
+| Route | Distance | Status | vs. Fitchburg |
+|-------|----------|--------|---------------|
+| Fitchburg Line (baseline) | 36 mi | Active | Best option |
+| Lowell Line + Stony Brook | 37 mi | Freight-only connection | Slower (transfer + single track) |
+| Worcester + W&N Railroad | 70 mi | Freight-only | Much slower (double distance) |
+| Route 2 corridor | - | IS the Fitchburg Line | Same |
+| Central Mass Railroad | - | Abandoned since 1970s | Not viable |
+
+The Fitchburg Line's 36-mile route is remarkably direct (straight-line distance is 30 miles). The 2024 Northern Tier Passenger Rail Study ($1.5-3B) confirms this is the optimal corridor.
 
 ---
 
@@ -237,13 +263,15 @@ Before evaluating sites, key international comparisons:
 
 ## Comparative Summary: All 5 Sites
 
-| Rank | Site | Distance | Rail Time (Express) | Land | Viability |
-|------|------|----------|---------------------|------|-----------|
-| **1** | Fort Devens | 40 mi | 30-35 min | 4,400 acres | **HIGH** - State-owned, existing rail |
-| **2** | S. Weymouth NAS | 15 mi | 18-22 min | 1,400 acres | **NONE** - Committed to housing |
-| **3** | Plymouth Cranberry | 30 mi | 28-32 min | ~800 acres | **MEDIUM** - Requires assembly |
-| **4** | Worcester Regional | 45 mi | 40-45 min | Existing | **MEDIUM** - Already airport |
-| **5** | Middleborough | 40 mi | 35-40 min | Unknown | **LOW** - Land unconfirmed |
+| Rank | Site | Distance | Rail Time (Best Case) | Land | Viability |
+|------|------|----------|----------------------|------|-----------|
+| **1** | Fort Devens | 40 mi | **48-53 min** (N. Stn) | 4,400 acres | **HIGH** - State-owned, existing rail |
+| **2** | S. Weymouth NAS | 15 mi | 18-22 min (S. Stn) | 1,400 acres | **NONE** - Committed to housing |
+| **3** | Plymouth Cranberry | 30 mi | 28-32 min (S. Stn) | ~800 acres | **MEDIUM** - Requires assembly |
+| **4** | Worcester Regional | 45 mi | 40-45 min (S. Stn) | Existing | **MEDIUM** - Already airport |
+| **5** | Middleborough | 40 mi | 35-40 min (S. Stn) | Unknown | **LOW** - Land unconfirmed |
+
+*Note: Devens time reflects realistic Fitchburg Line route analysis. True high-speed (125 mph) not achievable without $3-5B rebuild.*
 
 ---
 
@@ -263,14 +291,14 @@ There is no location within 25 miles of Boston with:
 | Factor | Details |
 |--------|---------|
 | Distance | 40 miles |
-| Travel time (electrified) | 30-35 min express |
-| Travel time (high-speed) | 22-25 min (if built) |
+| Travel time (current) | 88 min |
+| Travel time (electrified) | 62-66 min (EMU only) → **48-53 min** (full upgrade) |
 | Land | 4,400 acres (largest available) |
-| Rail | Fitchburg Line - existing, needs electrification only |
+| Rail | Fitchburg Line - existing, needs electrification + track upgrades |
 | Ownership | State-owned (MassDevelopment) |
 | Existing Infrastructure | Moore Army Airfield with intact runways |
 | Pros | Largest land, state ownership, existing rail, existing aviation infrastructure |
-| Cons | Distance requires high-speed or express service |
+| Cons | Fitchburg Line curves limit speed; 125 mph not achievable without rebuild |
 
 **Option B: Worcester Regional + Rail Connection**
 | Factor | Details |
