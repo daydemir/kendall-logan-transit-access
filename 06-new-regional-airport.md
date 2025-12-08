@@ -136,6 +136,29 @@ The Fitchburg Line has tight curves that physically limit speed:
 
 The Fitchburg Line's 36-mile route is remarkably direct (straight-line distance is 30 miles). The 2024 Northern Tier Passenger Rail Study ($1.5-3B) confirms this is the optimal corridor.
 
+**Kendall Square Access Options**
+
+Three routes from Kendall Square to a future Devens Airport:
+
+| Route | Time | Transfers | Infrastructure Needed |
+|-------|------|-----------|----------------------|
+| Red Line → Porter → Fitchburg | **48-53 min** | 1 transfer | Fitchburg electrification |
+| Grand Junction → North Stn → Fitchburg | 55-65 min | 1 (same platform) | GJ passenger service ($300-400M) |
+| Grand Junction → Westbound Fitchburg | **38-45 min** | 0 (one-seat) | GJ + new junction ($350-450M) |
+
+**Porter Square Option (Recommended Near-Term)**
+- Porter has both Red Line and Fitchburg Line stations
+- Red Line Kendall → Porter: 5-6 min
+- Porter is ~4 miles closer to Devens than North Station
+- **Best option with current infrastructure**
+
+**Grand Junction Westbound Option (Long-Term)**
+- Grand Junction connects to Fitchburg Line at Inner Belt (Somerville)
+- Current junction is eastbound-only (toward North Station)
+- New switch/wye ($20-50M) could enable westbound routing
+- Would create **one-seat ride** from Kendall to Devens Airport
+- See `03-grand-junction-rail.md` for detailed analysis
+
 ---
 
 ### #2: South Weymouth NAS (IF Housing Reversed)

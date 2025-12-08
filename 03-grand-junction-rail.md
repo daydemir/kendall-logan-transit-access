@@ -69,6 +69,66 @@ Kendall → Grand Junction → North Station → Commuter Rail → Airport
 
 ---
 
+## Grand Junction Connection to Fitchburg Line: Devens Airport Access
+
+### Critical Finding: Inner Belt Junction
+
+The Grand Junction connects to the Fitchburg Line at the **Inner Belt District in Somerville**, BEFORE reaching North Station. This junction is currently active for freight and MBTA equipment moves.
+
+```
+                         FITCHBURG LINE
+                              ↑
+    To Ayer/Devens ←←←←←←←←←←+→→→→→→→→→→ To North Station
+         (westbound)          |           (eastbound)
+                              |
+                    INNER BELT JUNCTION
+                              |
+                              ↑
+                     GRAND JUNCTION
+                         (from Kendall)
+```
+
+### Current Track Geometry: Eastbound Only
+
+**The existing switch configuration only allows eastbound movement** (toward North Station):
+- Trains from Grand Junction merge onto Fitchburg Line heading toward North Station
+- NO current ability to turn westbound toward Ayer/Devens
+
+**Evidence:**
+- 2012 Grand Junction Bridge closure required **103-mile detour** via Worcester→Ayer→Fitchburg
+- If westbound was possible, this detour would have been unnecessary
+- All planning studies treat North Station as terminus
+
+### Future Option: Westbound Connection ($20-50M)
+
+A new switch/wye could enable westbound routing:
+
+| Option | Description | Cost Est. |
+|--------|-------------|-----------|
+| New facing-point switch | Allow westbound onto Fitchburg | $5-20M |
+| Full wye junction | Y-shaped, all directions | $20-50M |
+| Grade-separated flyover | Avoids operational conflicts | $100-200M |
+
+### If Westbound Built: One-Seat Kendall → Devens
+
+| Route | Time | Infrastructure Needed |
+|-------|------|----------------------|
+| Grand Junction → Westbound Fitchburg → Devens | **~38-45 min** | $20-50M junction + $300-400M GJ upgrades |
+| Grand Junction → North Station → Fitchburg → Devens | ~55-65 min | $300-400M GJ upgrades only |
+| Red Line → Porter → Fitchburg → Devens | ~48-53 min | Fitchburg electrification only |
+
+### Recommendation for Long-Term Airport Planning
+
+If Devens becomes a regional airport (50-year vision), the Grand Junction westbound connection should be included in infrastructure planning:
+
+1. **Phase 1**: Grand Junction passenger service to North Station ($300-400M)
+2. **Phase 2**: Westbound junction to Fitchburg Line ($20-50M)
+3. **Result**: Direct Kendall → Devens Airport service in ~40 min
+
+This would make Kendall Square one of the best-connected employment centers to a future Devens airport.
+
+---
+
 ## Grand Junction vs NSRL for Kendall
 
 | Factor | Grand Junction | NSRL |
