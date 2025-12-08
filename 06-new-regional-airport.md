@@ -41,28 +41,236 @@ Logan Airport is:
 
 ---
 
+## Comprehensive Site Analysis: Can We Get Closer Than Devens?
+
+### The Core Question
+If we're willing to build NEW rail lines (not just use existing ones), can we find a viable airport site closer than Fort Devens (40 miles)?
+
+### The Answer: NO - The Constraint is LAND, Not Rail
+
+**Key Finding from Multi-Angle Research:**
+Even if we could build rail to ANY location, there simply isn't 1,000+ acres available within 25 miles of Boston that could be used for an airport. The constraint is land availability, not rail infrastructure.
+
+| Distance from Boston | Sites Identified | Status |
+|---------------------|------------------|--------|
+| 0-15 miles | South Weymouth NAS (1,400 acres) | **Committed to 6,000 housing units** (2025 legislation) |
+| 15-20 miles | Hanscom Field (1,125 acres) | **Politically impossible** (wealthy opposition + military) |
+| 20-30 miles | No 1,000+ acre parcels | All developed, protected, or fragmented |
+| 30-40 miles | Fort Devens (4,400 acres) | **Only viable option** |
+
+### Why No Closer Sites Exist
+
+1. **Dense Development**: Boston metro is one of the most densely developed in the US
+2. **Article 97 Protection**: Large state forests (Myles Standish: 12,400 acres) are constitutionally protected - requires 2/3 legislative vote to convert
+3. **Wealthy Suburbs**: Communities within 25 miles are politically powerful and oppose any major development
+4. **Historical Pattern**: Even Logan's expansion (1940s-50s) destroyed Wood Island Park, causing lasting resentment
+5. **Environmental Era**: Modern regulations make large-scale land conversion nearly impossible
+
+---
+
+## Top 5 Airport Location Candidates (Ranked)
+
+### International Benchmarks for Travel Time
+
+Before evaluating sites, key international comparisons:
+
+| Airport | Distance | Travel Time | Rail Type |
+|---------|----------|-------------|-----------|
+| Oslo Gardermoen | 50 km (31 mi) | **19 min** | Dedicated high-speed (new-build) |
+| Stockholm Arlanda | 42 km (26 mi) | **20 min** | Dedicated new-build, 200 km/h |
+| Hong Kong | 35 km (22 mi) | **24 min** | Dedicated new-build |
+| Munich | 30 km (19 mi) | **36-40 min** | S-Bahn extension |
+| Narita (Tokyo) | 60 km (37 mi) | **53 min** | Regional express |
+
+**Maximum Practical Distance**: Research suggests 30-50 km (18-31 miles) is viable with travel time under 30 min and frequency of 10-15 min.
+
+---
+
+### #1: Fort Devens (RECOMMENDED)
+
+| Factor | Details |
+|--------|---------|
+| **Distance** | 40 miles (64 km) from North Station |
+| **Land** | 4,400 acres developable + 5,220 acres total (largest available) |
+| **Ownership** | State-owned (MassDevelopment) |
+| **Existing Infrastructure** | Moore Army Airfield still exists with intact runways (1940-1995) |
+| **Rail** | Fitchburg Line (Ayer station) - already serves site |
+
+**Travel Times (Electrified Rail)**
+| Destination | Current | Electrified Express | High-Speed (new) |
+|-------------|---------|---------------------|------------------|
+| North Station | 75 min | **30-35 min** | **22-25 min** |
+| South Station (via NSRL) | N/A | **40-45 min** | **32-35 min** |
+| Worcester | 60+ min (no direct) | **35-40 min** (new spur) | **25-30 min** |
+| Springfield | 120+ min | **55-65 min** (new line) | **35-40 min** |
+
+**Why #1:**
+- Only site with 4,000+ acres in state ownership
+- Existing aviation infrastructure
+- Existing rail connection (needs electrification, not new construction)
+- Located to serve both Boston AND Central/Western MA
+
+---
+
+### #2: South Weymouth NAS (IF Housing Reversed)
+
+| Factor | Details |
+|--------|---------|
+| **Distance** | 15 miles (24 km) from South Station |
+| **Land** | 1,400 acres total (885 acres preserved as open space in current plan) |
+| **Ownership** | Mixed - New England Development/Brookfield + state |
+| **Rail** | Kingston Line - South Weymouth station directly adjacent |
+| **Status** | **BLOCKED**: $32.4M state funding + 2025 legislation committed to housing |
+
+**Travel Times (Electrified Rail)**
+| Destination | Electrified Express | High-Speed (if new) |
+|-------------|---------------------|---------------------|
+| South Station | **18-22 min** | **12-15 min** |
+| North Station (via NSRL) | **28-32 min** | **22-25 min** |
+| Worcester | **45-50 min** (new connection) | **30-35 min** |
+| Springfield | **85-95 min** | **55-60 min** |
+
+**Why #2:**
+- Best location by distance (15 miles)
+- Existing aviation history (NAS 1942-1997)
+- Direct rail access already exists
+- **BUT: Politically impossible** - 6,000 housing units already committed
+
+---
+
+### #3: Plymouth County Cranberry Assembly
+
+| Factor | Details |
+|--------|---------|
+| **Distance** | 30 miles (48 km) from South Station |
+| **Land** | Requires assembling 800-1,000 acres from multiple parcels |
+| **Target Area** | Hanson/Carver/Kingston - declining cranberry bogs |
+| **Rail** | Kingston Line - Kingston station 3-5 miles from potential sites |
+| **Opportunity** | Industry declining = willing sellers; 468-acre farm currently for sale |
+
+**Travel Times (Electrified Rail)**
+| Destination | Electrified Express | With New Station |
+|-------------|---------------------|------------------|
+| South Station | **28-32 min** | **25-28 min** |
+| North Station (via NSRL) | **38-42 min** | **35-38 min** |
+| Worcester | **50-55 min** | **45-50 min** |
+| Springfield | **90-100 min** | **70-80 min** |
+
+**Why #3:**
+- Closer than Devens (30 vs 40 miles)
+- Flat terrain (former bogs = runway-ready)
+- Economic opportunity for declining cranberry region
+- **BUT: Requires land assembly from multiple owners**
+
+---
+
+### #4: Worcester Regional Airport (Expansion)
+
+| Factor | Details |
+|--------|---------|
+| **Distance** | 45 miles (72 km) from South Station |
+| **Land** | Already an airport (can expand) |
+| **Ownership** | Massport-owned |
+| **Rail** | Worcester Line to Union Station; need 3-5 mile spur to airport |
+| **Current Passengers** | 229,000/year (tiny vs Logan's 44M) |
+
+**Travel Times (Electrified Rail)**
+| Destination | Electrified Express | High-Speed (new) |
+|-------------|---------------------|------------------|
+| South Station | **40-45 min** | **28-32 min** |
+| North Station (via NSRL) | **50-55 min** | **38-42 min** |
+| Worcester (Union Stn) | **8-10 min** (spur) | **5-8 min** |
+| Springfield | **45-55 min** | **25-30 min** |
+
+**Why #4:**
+- Already operational airport
+- Massport ownership simplifies governance
+- Best option for Western MA access
+- **BUT: Farthest from Boston; limited land for major expansion**
+
+---
+
+### #5: Middleborough/Lakeville Corridor
+
+| Factor | Details |
+|--------|---------|
+| **Distance** | 40 miles (64 km) from South Station |
+| **Land** | Potential large parcels along new rail line |
+| **Rail** | New Fall River/New Bedford Line opened 2025 |
+| **Advantage** | Serves dual market: Boston + Providence (30 miles) |
+
+**Travel Times (Electrified Rail)**
+| Destination | Electrified Express |
+|-------------|---------------------|
+| South Station | **35-40 min** |
+| North Station (via NSRL) | **45-50 min** |
+| Worcester | **55-65 min** |
+| Springfield | **95-110 min** |
+| Providence | **25-30 min** |
+
+**Why #5:**
+- New rail service (2025) creates opportunity
+- Could serve Providence market (underserved by TF Green)
+- Lower income area = potentially less NIMBY opposition
+- **BUT: Land availability unconfirmed; as far as Devens without the state ownership advantage**
+
+---
+
+## Rail Construction Cost Analysis
+
+### If We Build New Rail Lines
+
+| Distance | At-Grade Suburban | Mixed (some elevated) | With Tunneling |
+|----------|-------------------|----------------------|----------------|
+| 10 miles | $0.5-1.5B | $1.5-3B | $5-20B |
+| 15 miles | $0.8-2.3B | $2.5-5B | $8-30B |
+| 20 miles | $1-3B | $5-10B | $10-40B |
+
+**Recent Benchmarks:**
+- Denver A-Line (airport rail, 23.6 mi): ~$85M/mile
+- MBTA South Coast Rail (50 mi, existing ROW): ~$21M/mile
+- BART San Jose Extension (6 mi, underground): **$2,125M/mile**
+
+**Key Insight**: Building new rail to a closer site would cost $2-10B, but the land still doesn't exist. Using existing rail to Devens requires only electrification (~$200-400M for Fitchburg Line).
+
+---
+
+## Comparative Summary: All 5 Sites
+
+| Rank | Site | Distance | Rail Time (Express) | Land | Viability |
+|------|------|----------|---------------------|------|-----------|
+| **1** | Fort Devens | 40 mi | 30-35 min | 4,400 acres | **HIGH** - State-owned, existing rail |
+| **2** | S. Weymouth NAS | 15 mi | 18-22 min | 1,400 acres | **NONE** - Committed to housing |
+| **3** | Plymouth Cranberry | 30 mi | 28-32 min | ~800 acres | **MEDIUM** - Requires assembly |
+| **4** | Worcester Regional | 45 mi | 40-45 min | Existing | **MEDIUM** - Already airport |
+| **5** | Middleborough | 40 mi | 35-40 min | Unknown | **LOW** - Land unconfirmed |
+
+---
+
 ## Location Options
 
 ### The Reality: No Close-In Sites Available
-There is no location 9 miles from Boston with:
+There is no location within 25 miles of Boston with:
 - 1,000+ acres available
 - Existing or buildable rail connection
 - Political viability
 
-All land within 15-20 miles is developed, protected, or owned by wealthy communities that will fight.
+**Even building new rail lines doesn't solve this** - the constraint is land, not infrastructure.
 
-### Tier 1: Most Realistic (25-40 miles)
+### Tier 1: Most Realistic (35-45 miles)
 
-**Option A: Fort Devens**
+**Option A: Fort Devens (RECOMMENDED)**
 | Factor | Details |
 |--------|---------|
 | Distance | 40 miles |
-| Travel time (electrified) | 35-40 min |
+| Travel time (electrified) | 30-35 min express |
+| Travel time (high-speed) | 22-25 min (if built) |
 | Land | 4,400 acres (largest available) |
-| Rail | Fitchburg Line serves Ayer/Shirley stations |
+| Rail | Fitchburg Line - existing, needs electrification only |
 | Ownership | State-owned (MassDevelopment) |
-| Pros | Largest land, state ownership, direct rail, low cost, serves Central MA |
-| Cons | 35-40 min travel time, Fitchburg Line needs major upgrades |
+| Existing Infrastructure | Moore Army Airfield with intact runways |
+| Pros | Largest land, state ownership, existing rail, existing aviation infrastructure |
+| Cons | Distance requires high-speed or express service |
 
 **Option B: Worcester Regional + Rail Connection**
 | Factor | Details |
@@ -72,28 +280,28 @@ All land within 15-20 miles is developed, protected, or owned by wealthy communi
 | Land | Already an airport |
 | Rail | Need 3-5 mile spur from Union Station |
 | Passengers | 229K currently (tiny vs Logan's 44M) |
-| Pros | Already operational, Massport-owned |
-| Cons | 40-45 min travel, limited current service, no rail to airport |
+| Pros | Already operational, Massport-owned, best for Western MA |
+| Cons | 40-45 min travel, limited land for expansion |
 
-### Tier 2: Supplementary (Closer but Limited)
+### Tier 2: Theoretically Closer but Blocked
 
-**Beverly Regional Airport**
-| Factor | Details |
-|--------|---------|
-| Distance | 14 miles |
-| Travel time (electrified) | 20-25 min |
-| Rail | 3 miles from Beverly Station (Newburyport/Rockport Line) |
-| Growth | #9 → #2 GA airport in MA in 3 years |
-| Limitation | Serves North Shore only; cannot replace Logan |
-| Role | Secondary for regional/domestic flights |
+**South Weymouth NAS (15 miles)**
+- 1,400 acres, existing aviation infrastructure
+- **Status: UNAVAILABLE** - 2025 legislation committed site to 6,000 housing units + $32.4M state investment
+- Would require legislative reversal (extremely unlikely)
+
+**Plymouth County Cranberry Assembly (~30 miles)**
+- Could potentially assemble 800-1,000 acres from declining bogs
+- Near Kingston Line rail
+- Requires multi-parcel land assembly (complex, uncertain)
 
 ### Tier 3: Not Viable
 
-**Hanscom Field**
-- 14 miles, 1,125 acres, 7,011 ft runway
+**Hanscom Field (18 miles)**
+- 1,125 acres, 11,597 ft runway (longest in New England)
 - **Politically impossible**: 4 wealthy towns (Bedford, Lexington, Lincoln, Concord) with decades of organized opposition
-- 2024: State rejected even modest private jet hangar expansion
-- Emerson and Thoreau descendants leading petition against expansion
+- 2024: State rejected even modest 17-hangar expansion
+- Active military installation (essential DoD facility)
 
 ---
 
@@ -229,14 +437,36 @@ Instead of building new, coordinate existing airports:
 
 ## Sources
 
+### Massachusetts Sites
+- [Fort Devens - MassDevelopment](https://www.massdevelopment.com/what-we-offer/real-estate-services/development-projects/devens)
+- [Moore Army Airfield - Wikipedia](https://en.wikipedia.org/wiki/Moore_Army_Airfield)
+- [South Weymouth NAS - Boston Globe Nov 2025](https://www.bostonglobe.com/2025/11/21/business/weymouth-air-base-housing-legislation/)
+- [Weymouth $32.4M State Funding](https://www.weymouth.ma.us/home/news/weymouth-awarded-324-million-to-support-the-redevelopment-of-former-naval-air-station)
+- [Union Point Development](https://www.weymouth.ma.us/planning-community-development/pages/union-point)
+- [Hanscom Field Expansion Rejection - Lexington Observer](https://lexobserver.org/2024/07/05/hanscom-fields-expansion-proposal-comes-under-further-scrutiny-for-its-environmental-impact/)
+- [Myles Standish State Forest - Mass.gov](https://www.mass.gov/locations/myles-standish-state-forest)
+- [New England Regional Airport System - Boston Globe](https://www.bostonglobe.com/2025/08/25/opinion/regional-airport-system/)
+
+### International Airport Rail Comparisons
+- [Oslo Flytoget - Wikipedia](https://en.wikipedia.org/wiki/Flytoget)
+- [Stockholm Arlanda Express - Wikipedia](https://en.wikipedia.org/wiki/Arlanda_Express)
+- [Hong Kong Airport Express - Wikipedia](https://en.wikipedia.org/wiki/Airport_Express_(MTR))
+- [Munich Airport S-Bahn](https://www.munich-airport.com/public-transport-260822)
+- [Narita Express - Wikipedia](https://en.wikipedia.org/wiki/Narita_Express)
+- [Lyon Rhônexpress - Wikipedia](https://en.wikipedia.org/wiki/Rh%C3%B4nexpress)
+
+### Rail Construction Costs
+- [MBTA Commuter Rail Electrification Report](https://www.masstransitmag.com/rail/infrastructure/article/21243102/mbta-commuter-rail-could-be-electrified-for-between-800-million-and-15-billion-according-to-new-report)
+- [Denver A-Line to Airport - Wikipedia](https://en.wikipedia.org/wiki/A_Line_(RTD))
+- [BART San Jose Extension Costs - Mercury News](https://www.mercurynews.com/2024/03/11/san-jose-bart-extension-price-tag-balloons-once-again-this-time-by-600-million/)
+- [Transit Construction Costs Database](https://transitcosts.com/new-data/)
+
+### Other
 - [Amsterdam Schiphol Station - Wikipedia](https://en.wikipedia.org/wiki/Schiphol_Airport_station)
 - [Schiphol Mode Share - Statista](https://www.statista.com/statistics/688080/choice-of-transport-to-and-from-amsterdam-airport-schiphol-the-netherlands/)
 - [Netherlands vs MA Size - MyLifeElsewhere](https://www.mylifeelsewhere.com/country-size-comparison/netherlands/massachusetts-usa)
-- [Fort Devens - MassDevelopment](https://www.massdevelopment.com/what-we-offer/real-estate-services/development-projects/devens)
-- [Hanscom Field Expansion Rejection - Lexington Observer](https://lexobserver.org/2024/07/05/hanscom-fields-expansion-proposal-comes-under-further-scrutiny-for-its-environmental-impact/)
-- [New England Regional Airport System - Boston Globe](https://www.bostonglobe.com/2025/08/25/opinion/regional-airport-system/)
 - [GreenRoots EJ Organization](https://greenrootsej.org/)
 
 ---
 
-*Research compiled December 2025*
+*Research compiled December 2025 - Updated with comprehensive site analysis from multi-angle research*
