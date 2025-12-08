@@ -25,6 +25,39 @@
 | Terminals | Modernization ongoing but doesn't add capacity |
 | Ground access | Already maxed on curbside |
 | Airspace | Shared with Providence, Manchester, military |
+| Parking | Hard-capped at 20,938 spaces by DEP regulation |
+
+---
+
+## Ground Access & Mode Share (2024)
+
+### Current Mode Share
+| Mode | Share | Volume |
+|------|-------|--------|
+| Rideshare (Uber/Lyft) | **~30%** | ~13M passengers; 3.6M pickups (2023) |
+| Taxi | ~2-3% | 1M+ pickups (2023), down from 2M (2017) |
+| Transit (Blue/Silver Line) | Not published | Silver Line free from airport |
+| Private car/parking | Unknown | Capped at 20,938 spaces |
+| Logan Express | Small | Massport aims to "double" capacity |
+
+*Source: Massport data via Boston Globe, Harvard Crimson. Full mode share breakdown in Massport Air Passenger Survey PDFs (not publicly summarized).*
+
+### Ground Access Congestion
+Per Fred Salvucci (former MassDOT Secretary), January 2024:
+- **Curbside**: "chaos" - parking, Logan Express, rideshare demand "regularly exceeds capacity"
+- **Runways/taxiways**: "close to capacity and will require reprioritization"
+- **Roadways**: "increasingly choking with traffic"
+- **Key constraint**: Logan is closer to downtown than any US airport except San Diego
+
+### Rideshare Growth
+| Year | Rideshare Pickups | Taxi Pickups |
+|------|-------------------|--------------|
+| 2017 | Growing | ~2M |
+| 2019 | Dominant | ~1.5M |
+| 2023 | 3.6M | ~1M |
+| 2024 | ~13M passengers used rideshare | Rebounding |
+
+Massport raised rideshare fees to $7.50/trip (2025) - highest in the country - to manage demand and fund transit alternatives.
 
 ---
 
@@ -54,11 +87,13 @@
 ## National and Global Trends
 
 ### US Aviation Growth
-| Source | Projection |
-|--------|------------|
-| FAA TAF (2022) | 2.7% CAGR through 2050 |
-| IATA (2024) | 3.6% global CAGR |
-| BCG (2025) | Business travel to $2T by 2028 |
+| Source | Projection | Notes |
+|--------|------------|-------|
+| FAA Aerospace Forecast | **2.0-2.2% CAGR** | US RPMs through 2040 |
+| IATA 20-Year Forecast (2024) | **3.0-3.1% CAGR** | North America/US specific |
+| IATA Global | 3.6% CAGR | Skewed by Africa (4.2%), Middle East (4.1%) |
+
+*Note: The 2-3% range is most defensible for Boston/US projections.*
 
 ### Remote Work Impact
 **Counter-intuitive finding**: Remote work is INCREASING total air travel
@@ -187,16 +222,27 @@
 
 ## Sources
 
+### Growth Projections
+- [FAA Aerospace Forecasts](https://www.faa.gov/data_research/aviation/aerospace_forecasts) - 2.0-2.2% US CAGR
+- [IATA 20-Year Passenger Forecast (2024-2044)](https://www.iata.org/en/publications/newsletters/iata-knowledge-hub/air-passenger-demand-forecasting-the-future-of-global-air-travel/) - 3.0% North America CAGR
+- [FAA Terminal Area Forecast](https://www.faa.gov/data_research/aviation/taf) - Airport-specific projections
+
+### Logan Statistics
 - [Massport Airport Statistics](https://www.massport.com/logan-airport/about-logan/airport-statistics)
 - [Boston Logan Breaks Passenger Record - Massport](https://www.massport.com/media/newsroom/boston-logan-breaks-passenger-record-celebrates-year-full-growth)
 - [Logan 50M estimate under fire - Boston Herald](https://www.bostonherald.com/2019/11/24/logan-airports-50-million-passenger-estimate-comes-under-fire/)
-- [FAA Terminal Area Forecast 2022-2050](https://taf.faa.gov/Downloads/2022_TAF_Executive_Summary.pdf)
-- [IATA Global Air Passenger Demand 2024](https://www.iata.org/en/pressroom/2025-releases/2025-01-30-01/)
-- [Air Travel Demand Outlook 2025 - BCG](https://www.bcg.com/publications/2025/air-travel-demand-outlook)
+
+### Ground Access & Mode Share
+- [Massport Air Passenger Survey](https://www.massport.com/logan-airport/about-logan/air-passenger-survey) - Official survey data (PDFs)
+- [Big ideas for dealing with congestion at Logan - CommonWealth Beacon](https://commonwealthbeacon.org/opinion/big-ideas-for-dealing-with-congestion-at-logan/) - Salvucci op-ed on congestion
+- [Taxis at Logan rebounding - Boston Globe](https://www.bostonglobe.com/2024/02/17/business/taxis-logan-airport-uber-lyft/) - Rideshare/taxi data
+- [Massport rideshare fee increase - Harvard Crimson](https://www.thecrimson.com/article/2025/3/24/airport-rideshare-fees-rise/) - 30% rideshare mode share
+
+### Other
 - [Denver International Airport History](https://www.denverpost.com/2020/03/01/denver-airport-25-years-boondoggle-anniversary/)
 - [GAO Aviation Infrastructure - Building Runways](https://www.gao.gov/assets/a237087.html)
 - [Aviation IEA Climate Analysis](https://www.iea.org/energy-system/transport/aviation)
 
 ---
 
-*Research compiled December 2025*
+*Research compiled December 2025 - Updated with verified growth rate sources and ground access data*
