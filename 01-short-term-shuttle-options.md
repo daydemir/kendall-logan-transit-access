@@ -83,21 +83,59 @@ Employer consortium funds initial pilot to prove demand before Massport investme
 
 ---
 
-## Option 3: Kendall to Bowdoin Shuttle (NOT RECOMMENDED)
+## Option 3: Kendall-Bowdoin Shuttle (FREE, Minimal Investment)
 
-### Why It Seems Appealing
-- Connects to Blue Line (direct to Airport station)
-- Avoids tunnel traffic
+### The Concept
+A **free micro-shuttle** connecting Kendall to Bowdoin station, closing the Red-Blue gap cheaply until the real connector is built (2031).
 
-### Why It Doesn't Work
-| Issue | Problem |
-|-------|---------|
-| Bowdoin accessibility | Only non-accessible Blue Line station |
-| Station future | Slated for CLOSURE when Red-Blue Connector built (~2031) |
-| Time savings | Minimal vs current Red→Silver Line |
-| Transfer penalty | Still requires Blue Line + Airport shuttle |
+### Comparison: Kendall-Bowdoin vs Kendall-Logan
 
-**Verdict**: Direct shuttle to Logan is faster AND avoids investing in soon-to-close station.
+| Factor | Kendall → Bowdoin | Kendall → Logan |
+|--------|-------------------|-----------------|
+| **Distance** | ~1.3 miles | ~3.5 miles |
+| **Shuttle time** | 5-8 min | 15-25 min |
+| **Total to terminal** | 20-25 min (+ Blue Line) | 15-25 min |
+| **Transfers** | 1 (to Blue Line) | 0 |
+| **Operating cost** | ~$80-120K/year | ~$1.5-2M/year |
+| **Vehicle needs** | 1-2 small EVs | 2-3 buses |
+| **Traffic exposure** | Minimal (short route) | High (tunnel congestion) |
+| **Fare** | FREE (employer subsidized) | $3-7 |
+
+### Why This Is Clever
+
+1. **Closes the Red-Blue gap cheaply** - Micro Red-Blue Connector until 2031
+2. **Could be FREE** - At ~$100K/year, KSA members could easily subsidize ($1K/company × 100 companies)
+3. **Leverages Blue Line** - Blue Line runs every 4-5 min to Airport (8-10 min ride)
+4. **Avoids tunnel traffic** - Shuttle stays in Cambridge/Boston entirely
+5. **Resilient** - If shuttle delayed, walk from Charles/MGH (15 min) as backup
+6. **Doesn't clog Kendall-Logan route** - Complements rather than competes with direct shuttle
+
+### Caveats
+
+| Issue | Mitigation |
+|-------|------------|
+| Bowdoin accessibility | ADA riders use direct Logan shuttle instead |
+| Station future (closes ~2031) | Service transitions to Charles/MGH when Red-Blue opens |
+| Transfer penalty | Position as FREE option; premium travelers use Logan shuttle |
+| Luggage on Blue Line | Not ideal; heavy luggage users take direct shuttle |
+
+### Implementation
+
+| Item | Cost |
+|------|------|
+| Vehicle lease (1-2 electric vans) | $20-30K/year |
+| Insurance | $10-15K/year |
+| Driver labor (part-time) | $40-60K/year |
+| Fuel/maintenance | $10-15K/year |
+| **Total** | **$80-120K/year** |
+
+### Route
+**Kendall T → Third St → Cambridge St → Bowdoin Station**
+- Distance: 1.3 miles
+- Time: 5-8 minutes
+- Frequency: Every 10-15 minutes during peak
+
+**Verdict**: Run BOTH as complementary services - free Bowdoin shuttle for cost-conscious travelers, paid Logan Express for premium/luggage needs.
 
 ---
 
@@ -186,24 +224,34 @@ Break-even at ~$1.5M/year subsidy: Need 34 riders/day at $10 fare, or 100 riders
 
 ---
 
-## Recommendation: Dual-Track Approach
+## Recommendation: Three-Tier "Barbell" Approach
 
-### Track 1: Corporate Pilot (Immediate)
-- KSA employer consortium
+### Tier 1: FREE Kendall-Bowdoin Shuttle (Immediate, Minimal Cost)
+- KSA employer consortium funds ~$100K/year
+- Launch in 3-4 months (simplest permits)
+- Closes Red-Blue gap until 2031
+- Serves cost-conscious travelers, light luggage
+
+### Tier 2: Corporate Logan Pilot (Fast, Premium)
+- Same employer consortium, separate service
 - Launch in 6 months
-- Prove demand with minimal bureaucracy
+- Direct to terminals, $5-7 fare
 - Cost: $250-400K/year
 
-### Track 2: Logan Express Kendall (Parallel)
-- KSA advocates to Massport during pilot
-- Use pilot ridership data as justification
+### Tier 3: Logan Express Kendall (Sustainable)
+- KSA advocates to Massport during pilots
+- Use ridership data from Tiers 1 & 2 as justification
 - Target: Massport commitment by Month 12
 - Full service by Month 24
 
-### Why Both?
-- Corporate pilot is FAST (6 months vs 18+ months)
-- Massport service is SUSTAINABLE (public subsidy)
-- Pilot de-risks Massport investment
+### Why All Three?
+| Tier | Speed | Cost | Who It Serves |
+|------|-------|------|---------------|
+| Bowdoin shuttle | 3-4 months | $100K/year | Budget travelers, light bags |
+| Corporate Logan | 6 months | $300K/year | Premium, heavy luggage |
+| Logan Express | 18-24 months | $0 (Massport) | Everyone, permanently |
+
+**The "barbell"**: Minimal investment (Tier 1) + premium service (Tier 2) = maximum coverage while avoiding expensive middle-ground solutions.
 
 ---
 
