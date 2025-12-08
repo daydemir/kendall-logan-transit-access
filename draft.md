@@ -2,8 +2,10 @@
 
 ## Stakeholders
 
+There are three key stakeholder groups that must be considered.
+
 Business Travelers and Conference-goers (100 words)
-Kendall Square is a hub for many companies and businesses. The large number of companies, ranging from startups to larger established companies, makes it important to consider the specific ways that businesses travelers need to use the airport. 
+Kendall Square hosts over 50,000 daily workers across hundreds of companies.  Kendall Square is a hub for many companies and businesses. The large number of companies, ranging from startups to larger established companies, makes it important to consider the specific ways that businesses travelers need to use the airport. 
 
 East Cambridge Residents (100 words)
 
