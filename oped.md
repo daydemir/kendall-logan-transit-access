@@ -6,7 +6,7 @@ It's called luggage for a reason -- we have to lug it. If we want to drive ourse
 
 We could build better transit to the airport, and this would be great. But we have a bigger problem. Logan is full.
 
-Boston Logan Airport was constructed in (year?) was initially designed to handle (x?) travelers per year. Today, we have (x?) travelers per year, and that's growing at 2-3% per year. By 2040, we'll be experiencing delays not because of weather, but because of crowding at the airport.
+Boston Logan Airport was constructed in (year?) was initially designed to handle (x?) travelers per year. Today, we have (x?) travelers per year, and that's growing at 2-3% per year. By 2040, we'll be experiencing delays not because of weather, but because of crowding.
 
 We're going to need a bigger airport. But that's still not the biggest problem. Logan is underwater.
 
