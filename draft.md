@@ -1,96 +1,108 @@
 ## Brief
 
-In order to improve access between Kendall Square (Kendall) and Boston Logan Airport (Logan), we propose a two-phased approach. In the first phase, precisely targeted shuttles and investment in the Red-Blue Connector will maximize short-term access efficiency between Logan and Kendall. In the second phase, investing in electrified commuter rail and strategically gathering political momentum will lead to the building of a new rail-connected airport that will better serve Boston and Massachusetts, while unlocking huge adaptive reuse opportunities for East Boston and a one-seat electrified rail connection from Kendall to the new airport.
-
-## Stakeholders
-
-Business Travelers & Workers (~50,000)
-  - 50,000 people work in Kendall Square daily across 250+ biotech companies and 450+ startups
-  - Major employers include Harvard, MIT, Biogen, and Takeda with high-frequency business travel needs
-  - 575,000 convention room nights booked for 2025 reflect constant flow of visiting professionals
-
-  Residents (~200,000)
-  - East Cambridge has 12,555 residents; neighboring Somerville, Medford, and Arlington add 187,000 more
-  - 75% are renters with median age of 30, indicating a mobile population likely to fly frequently
-  - Personal travel for family visits, vacations, and relocations drives periodic airport demand
-
-  Students (~48,000)
-  - Harvard (24,519) and MIT (11,816) anchor a student population of nearly 48,000 in Cambridge
-  - Seasonal surge travel during December, May, and August breaks concentrates demand
-  - High proportion of international students require long-haul flights home multiple times per year
-
-There are three key stakeholder groups that must be considered.
-
-Business Travelers and Conference-goers (100 words)
-Kendall Square hosts over 50,000 daily workers across hundreds of companies.  Kendall Square is a hub for many companies and businesses. The large number of companies, ranging from startups to larger established companies, makes it important to consider the specific ways that businesses travelers need to use the airport. 
-
-East Cambridge Residents (100 words)
-
-Students (100 words)
+In order to improve access between Kendall Square (Kendall) and Boston Logan Airport (Logan), we propose a two-phased approach. In the first phase, precisely targeted shuttles and investment in the Red-Blue Connector will maximize short-term access efficiency between Logan and Kendall. In the second phase, investing in electrified commuter rail and strategically gathering political momentum will lead to the building of a new rail-connected airport that will better serve Boston and Massachusetts, while unlocking huge adaptive reuse opportunities for East Boston and a one-seat electrified rail connection from Grand Junction in Kendall to the new airport.
 
 ## Problem
 
 Kendall Square (Kendall) is a vital hub for the region. The area hosts hundreds of companies and is centrally located to many of the areas educational institutions. Demand for air travel is generally increasing, and those affiliated with the businesses and academic institutions are some of the most frequent users of air travel. 
 
-If we don't want Kendall's roads to be clogged, and require half of Kendall's real estate to be dedicated to parking and ride share drop off and pickup, then we need to increase the mass transit mode share for trips between Kendall and Logan.
+Cambridge already has the highest per-capita rideshare usage in Massachusetts. If we don't want Kendall's roads to be clogged and have Kendall's real estate to be increasingly dedicated to parking and ride share idling, then we need to increase the mass transit mode share for trips between Kendall and Logan.
 
 Given this, we can summarize the problems with existing transit between Kendall and Logan as follows.
 
 **Transit Problem 1: Too many transfers**. No one-seat ride, and the only grade-separated option involves two transfers, not including the transfer to the airport shuttle from the Airport Station on the Blue Line. This inefficiency causes the grade-separated option (Red to Orange to Blue Line)to usually be slower than the one-transfer but only partially grade-separated option (Red to Silver Line).
+
 **Transit Problem 2: Gets stuck in traffic**. The Red to Silver Line route only involves one transfer, but the Silver Line 1 (SL1) is not grade-separated in the Callahan Tunnel. Because of this, the Red to Silver Line route has almost no opportunity to beat driving on travel time, since any advantage of prior grade-separation gets lost in the tunnel. 
 
 We should also take on three more systematic problems that loom over Boston and all airport access in general, and see what solutions may exist that also benefit Kendall.
 
-**Airport Problem 1: Over capacity and growing**. The airport has already well-surpassed its original design capacity, and at a modest air travel growth rate of 3.5% per year Logan will maximum capacity by 2032. Besides this, the capacity of the roads and transit systems that lead to Logan are also stretched. If Logan is to remain a usable airport past the next decade, significant investments will need to be made to managing capacity of access and of the airport itself.
+**Airport Problem 1: Over capacity and growing**. The airport has already well-surpassed its original design capacity, and at a modest air travel growth rate of 2-3% per year Logan will reach maximum capacity by the mid-2030s. Besides this, the capacity of the roads and transit systems that lead to Logan are also stretched. If Logan is to remain a usable airport past the next decade, significant investments will need to be made to managing capacity of access and of the airport itself.
 
-**Airport Problem 2: Problematic location**. There are many reasons why the existing airport location is severly sub-optimal. The airport causes East Boston residents to suffer residual economic and air quality harms. The waterfront location makes it extremely vulnerable to impacts from climate change, and the existing location will require immense amounts of investment to made resilient to rising sea levels. The densities and waterways surrounding the airport make either very expensive or impossible to expand the footprint, and they make it logistically very difficult to build new transit options to the airport.
+**Airport Problem 2: Problematic location**. There are many reasons why the existing airport location is remarkably problematic. The airport causes harm to East Boston residents both through residual economic impacts and by the effects the airport has on air quality. The waterfront location makes it extremely vulnerable to impacts from climate change, and the existing location will require immense amounts of investment to made resilient to rising sea levels. The densities and waterways surrounding the airport make either very expensive or impossible to expand the footprint, and they make it logistically very difficult to build new transit options to the airport.
 
-In Phase 1, we suggest solutions that address Transit Problems 1 and 2, and in Phase 2 we suggest solutions that address Airport Problems 1 and 2.
-
-
-## Solutions
-
-Two horizons of solutions
-
-### Maximize Logan over the next 10 years
-#### Solution
-Blue Line Connector (1 year): One shuttle to the blue line, every 15 min, prove demand for red-blue connector
-
-Kendall Logan Express (2 years): One Logan Express style shuttle to the airport and back, one seat ride for ~$10, every 30 min
-
-Red-Blue Connector (10 years): more than just for the kendall airport
-
-Recommend against building airport specific infrastructure across the Charles
-
-#### Cost and Funding
-Cost is reasonable, subsidized by companies
-
-#### Marketing and Political Will
-Marketed to companies at kendall and MIT students. Both can start at vassar and mass ave
-
-#### Impacts and Performance Indicators
-expected impacts and measure of success
-
-###  Red Blue Connector (5-15 years) (400 words)
-#### Solution
-#### Cost and Funding
-#### Marketing and Political Will
-#### Impacts and Performance Indicators
-
-### A Rail-Connected Future Airport
-
-### Two Shuttles to Close the Gap (0-5 years) (400 words)
+In Phase 1, we suggest solutions that address Transit Problems 1 and 2. In Phase 2, we suggest solutions that address Airport Problems 1 and 2.
 
 
+## Phase 1: Strategic Transit Investments to Logan (10 Year Plan)
+
+### Kendall - Blue Line Connector Shuttle (Implement in 1 Year)
+We recommend immediately making plans to implement a shuttle that runs between the Kendall/MIT Red Line station and the Bowdoin Blue Line Station. This shuttle will operate a linear route between these two endpoints, and include a stop at Mass General Hospital (MGH). With two shuttles in operation, this connector can provide 12 minute frequencies. If the shuttles can operate from 5am to 9pm, they will provide comprehensive transit-style access that covers the vast majority of flight times.
+
+The Kendall - Blue Line Connector Shuttle diversifies the at-grade options for transit access to Logan from Kendall, providing an alternative transit option for when Callahan Tunnel congestion may be slowing the SL1. Riders from Kendall can choose to take the connector to the Blue Line and only deal with the traffic along Main Street, the Longfellow Bridge, and Cambridge Street, or they can choose to take the Red to Silver Line route and deal with the traffic in the Callahan Tunnel.
+
+This minimal intervention also provides noteworthy alternative benefits. By stopping at MGH, the shuttle creates a transit connection from the hospital to the Blue Line, unlocking some of the benefits that would come from a true grade-separated Red-Blue Connector. There are many other benefits that would come from the access enabled by a proper underground Red-Blue Connector. While this shuttle would not unlock all those because of the issues of having it run at grade, and not serve as a free transfer between the Red and Blue Lines, there would be a considerable reduction in the effort and travel time required for residents along the Blue Line to access jobs at MGH and at Kendall.
+
+By sharing the benefits, MGH and the Kendall Square Association (KSA) can work to jointly fund and operate the shuttle and provide it for free. There is much reason for the two entities to work together. This will save MGH employees and visitors time on their commutes, and in addition to the airport access benefits, by creating this free connection between Kendall and MGH, Kendall businesses will open up a whole new clientele of MGH employees who will be more likely to visit Kendall for lunch or dinner. Similarly, this will be a free service for Kendall-area workers who have medical appointments at MGH. The KSA specifically should work with the Kendall businesses and housing complexes to pool the funding for this low-cost service. This shuttle will also provide data that can be used to test and validate the demand for a Red-Blue Connector, which provides justification to access at least partial subsidy of this shuttle by the MBTA as well.
+
+This solution does not reduce the number of transfers for riders between Kendall and Logan, but it is a very cheap and simple intervention that, once it is tracked and documented correctly on transit routing apps, can be promoted to local workers, residents, and students as a viable transit alternative. By reducing the friction of transferring to the Blue Line, the expected travel time from Kendall to Logan via the Kendall - Blue Line Connector becomes considerably shorter than equivalent trip via the Red and Silver Lines. Per Google Maps and CityMapper live estimates, weekday rush hour travel times show 44 minutes for Red - Silver Line route and 38 minutes for the Blue Line via this proposed connector shuttle, including the shuttle's expected 6 minute wait time.
+
+By implementing this in the next year, Kendall workers, residents, and students will all immediately gain access to a 10-20% reduction in their transit travel times to the airport.
+
+## Kendall Logan Express (Implement in 2 Years)
+
+While the connector shuttle reduces Kendall-Logan travel time on average, it doesn't address the problem with having to transfer to get to the airport. While many business travelers and conference attendees will be traveling light since they may be coming or going for only a couple days, most air travel still requires the lugging of a carry on, and sometimes multiple large baggage items. This can make car rides very appealing. 
+
+In order to satisfy the need for a one-seat ride that doesn't require riders to transfer luggage between vehicles, we recommend the KSA work with Massport to expand the Logan Express shuttles to a service from Kendall. While this offering would not avoid traffic congestion, it would reduce the demand for ride-hail to the airport and take single-occupancy vehicles off the road. In order to maximize the catchment area for the express shuttle, it could have a 2-3 stops, one at southern MIT and one at Kendall/MIT. 
+
+Massport is already planning to expand Logan Express service due to its success, and it makes sense for Kendall to be the first offering of the service in Cambridge. Like the connector shuttle, the KSA can reasonably solicit the large Kendall-area employers who have a lot of airport travel. These companies should be eager to subsidize this new Logan Express route since it will greatly reduce the amount of Uber and Lyft rides to the airport they will need to reimburse for their companies. Even if the cost is double the $3 cost of a one-way ride from Back Bay, it is still a very reasonable and lucrative offer for Kendall area companies. The Logan Express is also able to drop-off closer at the actual terminal doors rather than at the ride-hail zones, giving a location advantage at the airport end of the trip.
+
+We recommend this Kendall branch of the Logan Express be implemented in the coming two years, and be offered as a direct competitor to the ride-hail services to the airport and offered as a complentary option alongside the more grade-separated options.
+
+## Red-Blue Connector (Implement in 10 Years)
+
+There are many reasons to implement a proper, grade-separated Red-Blue Connector, and it has garnered support over the years. 
+
+The KSA should use the ridership data provided by the Kendall - Blue Line Connector Shuttle to help build momentum and accelerate the timeline of the project that has already been partially funded by the MBTA. Airport connectivity is only one of the benefits that would come from building this connector, and for this reason data from the shuttle should not be considered sufficient by itself to model potential impacts of the underground connector. But, it can be used to show the minimum benefits that would be achieved, and provide more urgency to the connector implementation. Once built, the Red-Blue Connector will obviate the Kendall - Blue Line Connector Shuttle.
+
+The KSA should add its weight behind this project, and use the first two projects described above to create a mutually beneficial and communicative relationship with local companies and businesses about improving airport access and transit ridership for workers, residents, and students in the Kendall area. This organized coalition should then put its collective political power behind the implementation of this project.
+
+Kendall will both benefit from even faster access to the airport, now fully grade-separated, and it will gain access to a whole new population of potential workers and clientele who will be able to visit Kendall directly by transit. This will reduce amount of space and money wasted on parking, dissipate the housing demand for workers at Kendall-area companies, and economically benefit local businesses.
+
+We recommend the KSA formalize its support for the Red-Blue Connector over the next two years, and align with the MBTA and other area institutions to ensure the connector begins construction in the next 10 years.
+
+## Phase 2: A Rail-Connected Airport for Massachusetts (50 years)
+
+Because of the problems mentioned before, Boston Logan Airport will not be Boston's main airport in 50 years. Kendall is a central hub for high-tech and biotech companies, disrupting startups, and world-changing research. If Kendall is to continue on this trajectory and remain this center of innovation, the KSA needs to strategically consider the future of Boston, and how it will position itself not just for the next decade but for the next 50-100 years as the most attractive square mile for the smartest people. 
+
+This means that the KSA must think about where the future Boston airport will go, and how to prepare for and optimize access to that airport to and from Kendall.
+
+The following recommendations are not projects that the KSA can take on by itself, but are projects that the KSA should bolster support for among the constituent companies and stakeholders in the Kendall area. 
+
+## Electrify Commuter Rail (Implement in 20 Years)
+
+The KSA should work with the MBTA to accelerate the electrification of all commuter rail lines, but especially the Fitchburg Line. This will reduce emissions and reduce travel times by up to 20%. This will provide commuters to the Kendall area with better non-automotive options for getting into Boston (and thus Kendall). Along with electrification, the MBTA should also gradually increase frequencies, aiming to provide 15 minute frequencies. 
+
+Alongside electrification, the final piece of heavy rail infrastructure that must be implemented with Boston proper is the North-South Rail Link between North and South Stations. This is a project that has garnered support in the past, and was almost included in the Big Dig. The effort to electrify should be used as an opportunity to bring back this vital project for rail connectivity in Boston. The ramifications for this project go far wider than Boston, allowing through-running of Amtrak trains from New York City all the way to Portland. This will make Boston a much more central hub, and create even more visitors and economic opportunities in the Boston region.
+
+With the increased speeds of electrification, increased frequencies, and the increased connectivity provided by the NSRL, MBTA commuter rail will be able to properly compete with driving, and we will begin to see real mode-shift towards rail. For Kendall, this means not needing to widen roads and take up any more valuable space for parking, and an increased catchment area for workers arriving with transit.
+
+After forming the coalition of companies, local businesses, and stakeholders mentioned in Phase 1, the KSA should direct the coalition's political weight towards this goal of electrification and the NSRL. This will benefit Kendall upon implementation, but it will also lay the groundwork for a future airport.
+
+## Grand Junction Station on Fitchburg Line (Implement in 30 Years)
+
+Kendall has a very valuable asset: an existing, in-use rail line. Currently, it is used to occasionally store commuter rail cars, but it has significant potential to unlock a new era of rail access to Kendall.
+
+This branch would be an order of magnitude jump in the catchment area for transit access to Kendall, allowing over (how many?) residents to get to Kendall by transit in under 1 hour and with a one-seat ride. This will only increase the gravitation pull of businesses, startups, conferences, and events to Kendall. 
+
+The KSA should work with the MBTA and MIT to begin the process of determining a location for a Grand Junction Station that can become a branched second endpoint for the Fitchburg Line, other than North Station. As part of developing this branch, the line should be grade separated in order to avoid the friction that exists at the road crossings. While this does not leverage the existing rail, electrification would need updated rail infrastructure and that opportunity should be taken to reuse the right-of-way for a grade separated, elevated electrified connection.
 
 
+Adding a Kendall branch to the Fitchburg Line makes Kendall a vital node in the greater Boston region. All the commuter rail lines currently terminate in Boston, either North or South Station. By having a branch that terminates in Kendall, this solidifies Kendall in a place of critical economic and geographic importance. A forward-looking KSA must jump at this opportunity.
 
-## A Bold Vision for Boston's Rail-First Airport (50 years) (400 words)
+During conversations involving commuter rail electrification, we recommend the KSA start an exploratory investigation of the requirements to add the Kendall branch to the Fitchburg line, and a small-footprint terminal station at Grand Junction.
 
-#### Solution
+## The New, Rail-First Boston Airport (Implement in 50 Years)
 
-#### Cost and Funding
+We take for granted that a new Boston airport will need to be built within the next 50 years. With this new airport, there are opportunities to avoid the mistakes that were made when building the last airport over (how many?) years ago.
 
-#### Marketing and Political Will
+Because of the existing densities and land utilization in Greater Boston, we believe that this future Boston-region airport will not be built within the Route 128 loop. Modern airports with efficiency must be built with rail connections. Airports built alongside their rail connections are able to achieve transit mode shares well above 50%. In order to build an airport that is sustainable for the future of Boston, it must be built along either existing or newly built MBTA Commuter Rail service.
 
-#### Impacts and Performance Indicators
+For the new airport, we recommend considering locations inland of Boston. First, because that avoids taking real estate within 10-20 miles of the waterfront, which tends to be higher value and should be committed for more human-scale uses. Second, because allows the airport to be further away from the waterfront, where we expect more extreme weather conditions to occur, especially as climate change continues. Third, because a new, large-capacity airport should maximize the number of people it can serve, and location west of Boston increases the municipalities the airport can serve (x?) more people than Logan within 50 miles and avoids requiring air travelers to travel through Boston to access the airport. This allows the future airport to also be marketed as an airport for all of Massachusetts, not just for Boston, and will be able to provide economic opportunity to other municipalities across the state.
+
+With these considerations, we believe the KSA should begin an investigation into a potential future airport location along the Fitchburg Commuter Rail line, or on a new branch of that line. This satisfies the requirements set here, while also potentially being enormously valuable for Kendall. If Kendall becomes a one-seat train ride from a mega airport, it will become an international hub. Boston is perfectly positioned to be the innovation hub of the east: it's well-connected to Europe, you have significant proximity to New York City but more per-capita focus on high-tech and innovation (check this), and there are an outsized number of higher learning institutions. This is what Boston has the opportunity to become, and the train from the airport should have two potential destinations: Boston North Station and Kendall Grand Junction. The impacts of this convenient access to Kendall from international destinations are not measurable, but will certainly be profound.
+
+Given that Logan will be reaching maximum capacity in the next decade and the long timeline required to begin work on a new mega-airport, Massport, MBTA, and the state assembly should all be invested in beginning this discussion. Certainly more research must be conducted to determine the feasibility and implementation plan of this future airport, but we believe the KSA has a significant stake in the location of this airport and needs to get out in front of this conversation and be the one to start the movement for the new airport we will be in dire need of within 20-30 years.
+
+## Conclusion
+
+The KSA should begin by focusing its efforts on Phase 1, but it should begin planning for Phase 2. Over the next 5 years, the KSA should solidify its coalition of local stakeholders and resident companies, and begin its consolidated effort in helping to implement both the Red-Blue Connector, and the next electrified MBTA rail-connected Boston regional airport.
