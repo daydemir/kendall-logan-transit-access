@@ -1,25 +1,33 @@
-# It's time to build the airport for Massachusetts.
+# Can Massachusetts still pioneer?
 
-*This op-ed is adapted from a policy memo provided to the Kendall Square Association for ways to improve access to Boston Logan Airport. Here we focus on the bigger picture, what the future of air travel should look like for Boston, and for Massachusetts as a whole.*
+Nobody likes going to the airport. 
 
-Nobody likes getting to the airport. It's called luggage for a reason -- you have to lug it. If we want to drive ourselves, then we deal with exorbitant daily rates. If we want to take an Uber or Lyft then we don't know what it's going to cost until the day of our trip. And the traffic to get to the airport gets worse anyway.
+It's called luggage for a reason -- we have to lug it. If we want to drive ourselves, then we deal with exorbitant parking rates. If we want to take an Uber or Lyft then we don't know what it's going to cost until the day of our trip. And the traffic to get to the airport just keeps getting worse anyway.
 
-Advocates want to build more public transit options to the 
+We could build better transit to the airport, and this would be great. But we have a bigger problem. Logan is full.
 
-Only if you live in East Boston or are wealthy enough to live Downtown do you have an opportunity to 
+Boston Logan Airport was constructed in (year?) was initially designed to handle (x?) travelers per year. Today, we have (x?) travelers per year, and that's growing at 2-3% per year. By 2040, we'll be experiencing delays not because of weather, but because of crowding at the airport.
 
-But everybody dreams of the places they might fly to. 
+We're going to need a bigger airport. But that's still not the biggest problem. Logan is underwater.
 
-Logan was built in YEAR, and at that time we had no idea how huge flight 
+[one sentence on how much water will rise and how much effort it'll take to abate, and timeline]. The increasing frequency of extreme weather events will also make it harder to land and takeoff at an airport that's on the shore, right where the storms hit. 
 
-## Choking traffic, overcrowded transit, mention big dig.
+We might not believe we need it today, and it may sound too daunting to consider, but we have to face the truth. Boston will need a new airport, and we're going to need it in the next 30 years.
 
-## Climate change
+When we're ready to face the music, we need to learn our lessons from Logan. The next Boston airport should not take up valuable and also environmentally difficult waterfront real estate. The next Boston airport should not displace existing communities. The next Boston airport must be connected with high-speed electric rail connections to downtown Boston and MBTA metro lines.
 
-## East Boston and waterfront land to bring down housing costs
+These challenges present a new opportunity for Boston: the first electric rail-connected airport in the United States. 
 
-As we imagine the future of high-speed rail in Massachusetts, we can use this opportunity to fight for a unified vision that aligns all the ways we want to move in our cities.
+By picking a location in the outskirts of Greater Boston, the next airport for this region can be an airport for all of Massachusetts. Electrified rail increases speeds by 20% compared with diesel-powered rail. We can find a location that connects Boston, Worcester, and Springfield to an international airport all within a 1 hour train ride (check this). 
 
-The pioneering spirit that Massachusetts is familiar for (Earhart)
+Boston has an opportunity to innovate on American airport design. Because they designed frequent rail access into the airports during construction, Oslo and Amsterdam (any other examples?) provide rail access to their airports for millions of residents within 50 miles of the airport (check this). Massachusetts is half the size of the Netherlands, and has half as many people. There's no reason why our next airport can't be a train-first airport. Airport traffic needs to become an artifact of the past. 
 
-It's time to build the mega airport that will take Boston into the 22nd century.
+We innovated on healthcare, now it's time to innovate on rail connectivity.
+
+This opportunity is not only for a new airport, but it's also an opportunity for East Boston. The community surrounding the airport suffers ongoing injustice both from the construction of the airport keeps the value of the land in East Boston from becoming more valuable, and the harmful particulates and health impacts of proximity to the airport. 
+
+To do right by East Boston, we need to repair what Logan Airport damaged.
+
+But the benefits of reclaiming the airport footprint will not just flow to residents of East Boston. All of Boston will unlock new opportunities for housing and development. Boston housing is as expensive as New York City, and we need to build more housing to meet the demand. Adapting the airport's land for high-capacity housing and waterfront commercial deveolopment presents potentially billions of dollars of revenue for the city, and a chance to effectively manage the fast-paced growth we're experiencing. Not to mention how much less traffic there will be in Boston if all the airport travel is moved elsewhere.
+
+We may not be ready today. Maybe not tomorrow. But Boston needs a new airport -- Massachusetts needs a new airport. When the time comes, we'll see if we still have that pioneering spirit. What do you think of Amelia Earhart International?
